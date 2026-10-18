@@ -6,7 +6,6 @@
 ### CSE Student | Aspiring Software Developer | Frontend & Web Development Learner
 
 <p>
-  <a href="https://github.com/kamrul-explorer"><img src="https://img.shields.io/badge/GitHub-kamrul-explorer-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
   <img src="https://img.shields.io/badge/Focus-Software%20Development-blue?style=for-the-badge" alt="Software development">
   <img src="https://img.shields.io/badge/Location-Bangladesh-green?style=for-the-badge" alt="Bangladesh">
 </p>
